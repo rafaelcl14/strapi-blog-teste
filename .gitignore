@@ -60,8 +60,7 @@ $RECYCLE.BIN/
 *.out
 *.pid
 
-package.json
-yarn.lock
+
 ############################
 # Logs and databases
 ############################
